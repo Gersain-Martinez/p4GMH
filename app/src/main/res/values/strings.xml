@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">p4GMH</string>
+    <string name="titulo1">Bienvenido</string>
+    <string name="titulo2">Menu Principal</string>
+    <string name="perro">Perro Dalmata</string>
+    <string name="tiburon">Tiburon Asesino</string>
+    <string name="perico">Perico Verde</string>
+    <string name="oso">Oso Peligroso</string>
+    <string name="lobo">Lobo Siberiano</string>
+    <string name="gato">Gato Benito</string>
+    <string name="cobra">Cobra Real</string>
+    <string name="ardilla">Ardilla Arenita</string>
+    <string name="regresar1">REGRESAR AL MENU</string>
+    <string name="regresar2">REGRESAR AL MENU</string>
+    <string name="regresar3">REGRESAR AL MENU</string>
+    <string name="regresar4">REGRESAR AL MENU</string>
+    <string name="regresar5">REGRESAR AL MENU</string>
+    <string name="regresar6">REGRESAR AL MENU</string>
+    <string name="regresar7">REGRESAR AL MENU</string>
+    <string name="regresar8">REGRESAR AL MENU</string>
+</resources>
